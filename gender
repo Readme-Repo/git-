@@ -1,0 +1,4 @@
+#!/bin/bash
+echo " select one option"
+echo "$gender"
+echo "male,female"
